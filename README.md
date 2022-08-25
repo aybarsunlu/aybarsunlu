@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="240" />
 
 ## I'm a Student👨‍🎓, Intern✍ and Full Stack Developer🚀
-- 🔭 I’m currently working on Akpınar Bilişim Hizmetleri as an Intern 🤖
+- 🔭 I’m currently working on Akpınar Bilişim Hizmetleri as an Intern
 - 🌱 I’m currently learning Python and Sql 😂
 - 👯 I’m looking to collaborate with other Python and Backend developer 👩‍💻
 - 🥅 2022 Goals: Specializing in Python and Sql languages and developing various projects in this field 🌎
