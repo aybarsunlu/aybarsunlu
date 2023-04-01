@@ -1,10 +1,9 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="240" />
 
-## I'm a Student👨‍🎓, Intern✍ and Full Stack Developer🚀
-- 🔭 I’m currently working on Akpınar Bilişim Hizmetleri as an Intern
-- 🌱 I’m currently learning Python and Sql 😂
-- 👯 I’m looking to collaborate with other Python and Backend developer 👩‍💻
-- 🥅 2022 Goals: Specializing in Python and Sql languages and developing various projects in this field 🌎
+## I'm Network Security Engineer🚀
+- 🔭 I’m currently working on Netech - Akpınar Bilişim Hizmetleri as an Network Security Engineer
+
+- 🥅 2023 Goals: Specializing in technologies such as SOC, SIEM and SOAR, improving myself in the field of cyber security 🌎
 
 ### 📩 Connect with me:
 
@@ -18,14 +17,3 @@
 [linkedin]: https://www.linkedin.com/in/aybarsunlu/
 [gmail]: mailto:aybarsunlu@hotmail.com
 <br />
-
-### 🔧 Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
-
-
-<br />
-
-[vsCode]: https://code.visualstudio.com/
-[python]: https://www.python.org/
