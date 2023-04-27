@@ -1,9 +1,9 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="240" />
 
 ## I'm Network Security Engineer🚀
-- 🔭 I’m currently working on Netech - Akpınar Bilişim Hizmetleri as an Network Security Engineer
+- 🔭 I’m currently working on Netech - Akpınar Bilişim Hizmetleri as an Network Security Engineer.
 
-- Specializing in technologies such as SOC, SIEM and SOAR, improving myself in the field of cyber security 🌎
+- My goals are to specialize in technologies such as SOC, SIEM and SOAR, to improve myself in the field of cyber security. 🌎
 
 ### 📩 Connect with me:
 
