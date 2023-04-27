@@ -3,7 +3,7 @@
 ## I'm Network Security Engineer🚀
 - 🔭 I’m currently working on Netech - Akpınar Bilişim Hizmetleri as an Network Security Engineer
 
-- 🥅 2023 Goals: Specializing in technologies such as SOC, SIEM and SOAR, improving myself in the field of cyber security 🌎
+- Specializing in technologies such as SOC, SIEM and SOAR, improving myself in the field of cyber security 🌎
 
 ### 📩 Connect with me:
 
