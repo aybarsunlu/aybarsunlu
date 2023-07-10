@@ -9,7 +9,7 @@ During my work, I gained experience in network devices installation, configurati
 
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="64px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="linkedin | LinkedIn" width="128px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 
