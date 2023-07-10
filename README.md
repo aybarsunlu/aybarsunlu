@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="240" />
 
 ## I'm Network Security Engineer🚀
-- 🔭 I’m currently working on Netech - Akpınar Bilişim Hizmetleri as an Network Security Engineer. 
+- 🔭 I’m currently working as a Network Security Engineer. 
 
 During my work, I gained experience in network devices installation, configuration and monitoring. Then, I focused on Network Security and worked on the management and analysis of technologies such as Firewall, WAF, SIEM. Afterwards, I attended the C.E.H training and worked on pentesting, vulnerability management and malware analysis. In the future, I plan to specialize by continuing to work in the field of Cyber Security.
 
